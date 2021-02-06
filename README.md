@@ -1,3 +1,3 @@
-# hi im back
+# Pointless
 
-i am back so i dont forget how to use this
+This is just pointless.
