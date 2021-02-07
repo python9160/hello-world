@@ -1,1 +1,3 @@
-console.log('Hello GitHub');
+var message = 'Hello Github';
+
+console.log(message);
