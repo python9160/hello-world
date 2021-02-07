@@ -1,3 +1,5 @@
 var message = 'Hello Github';
 
-console.log(message);
+for (letter of message) {
+  console.log(letter);
+}
