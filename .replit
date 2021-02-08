@@ -1,2 +1,2 @@
-run = "hello.js"
+run = "node hello.js"
 language = "bash"
